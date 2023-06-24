@@ -5,7 +5,9 @@
 - 🌱 Atualmente estou aprendendo Python.
 - 📊 https://sites.google.com/view/portifolio-rugelli-oliveira/início
 
-<img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center" dir="auto">
+  <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
 
 ##
 🖥️ Tecnologias e Ferramentas:
@@ -20,20 +22,18 @@
 📫 Contato:
 
 <div>
-<a href = "mailto:rugelli.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rugelli-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:rugelli.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rugelli-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ##
-<div>
-<a href="https://github.com/rugellioliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+<p align="center" dir="auto">
+  <a href="https://github.com/rugellioliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ![Snake animation](https://github.com/rugellioliveira/rugellioliveira/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
