@@ -1,16 +1,39 @@
-### Hi there 👋
+# Olá, meu nome é Rugelli ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**rugellioliveira/rugellioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando na área de Dados.
+- 🌱 Atualmente estou aprendendo Python.
+- 📊 https://sites.google.com/view/portifolio-rugelli-oliveira/início
 
-Here are some ideas to get you started:
+<img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+🖥️ Tecnologias e Ferramentas:
+
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
+##
+📫 Contato:
+
+<div>
+<a href = "mailto:rugelli.oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rugelli-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+##
+<div>
+<a href="https://github.com/rugellioliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+![Snake animation](https://github.com/rugellioliveira/rugellioliveira/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
