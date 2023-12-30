@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente estou trabalhando na área de Dados.
 - 🌱 Atualmente estou aprendendo Python.
-- 📊 https://sites.google.com/view/portifolio-rugelli-oliveira/início
 
 <p align="center" dir="auto">
   <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
