@@ -1,8 +1,8 @@
 # Olá, meu nome é Rugelli ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na área de Dados.
-- 🌱 Atualmente estou aprendendo Python.
+- 🔭 Atualmente estou trabalhando na área de Dados e Business Intelligence.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em Python.
 - Portifólio de projetos de Análise de Dados e BI:  https://sites.google.com/view/portifolio-rugellioliveira/início
 
 <p align="center" dir="auto">
