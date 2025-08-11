@@ -1,5 +1,5 @@
 # Olá, meu nome é Rugelli ! 
-## Bem vindo ao meu perfil GitHub 👋
+## Bem-vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na área de Dados e Business Intelligence.
 - 🌱 Atualmente estou aprimorando meus conhecimentos em Python.
