@@ -4,9 +4,11 @@
 - 🔭 Atualmente estou trabalhando na área de Dados.
 - 🌱 Atualmente estou estudando conceitos e ferramentas voltados à Engenharia de Dados.
 
+<!--
 <p align="center" dir="auto">
   <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
+-->
 
 <p align="center" dir="auto">
   <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeFUEsofq8ULuo5Kfb9bYaTtIfUbDUqZvzwBhG2mVFGC7zfhk4AOxBPjTB1RBSXDFDgSfszUoY_v5Yacfcnub0Rv6O9KL3le7UUPlsCSveX8m2CGcQqNwqt2mD6bY9JmIk1QgpV87YBITLgjoWFf1z_0Egf?key=vGTl4wL4SjwX-NI1q7wrsQ" width="1600" height="800" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
