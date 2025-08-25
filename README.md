@@ -1,8 +1,8 @@
 # Olá, meu nome é Rugelli ! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na área de Dados e Business Intelligence.
-- 🌱 Atualmente estou aprimorando meus conhecimentos em Python.
+- 🔭 Atualmente estou trabalhando na área de Dados.
+- 🌱 Atualmente estou estudando conceitos e ferramentas voltados à engenharia de dados.
 
 <p align="center" dir="auto">
   <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="400" height="200" alt="Data Analysis GIF - Data Analysis Graph GIFs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -12,7 +12,6 @@
 🖥️ Tecnologias e Ferramentas:
 
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
