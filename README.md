@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na área de Dados.
 - 🌱 Atualmente estou estudando conceitos e ferramentas voltados à Engenharia de Dados.
+- 🎥 Projetos em vídeo.
 
 <!--
 <p align="center" dir="auto">
@@ -42,6 +43,7 @@
   <a href="https://github.com/rugellioliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"/>
+  [![YouTube](https://img.shields.io/badge/YouTube-Canal-red?logo=youtube)](https://www.youtube.com/@SeuCanal)
 
 ![Snake animation](https://github.com/rugellioliveira/rugellioliveira/blob/output/github-contribution-grid-snake.svg)
 </p>
