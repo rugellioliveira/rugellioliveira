@@ -1,4 +1,4 @@
-# Olá, meu nome é Rugelli ! 
+# Olá, meu nome é Rugelli! 
 ## Bem-vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na área de Dados.
