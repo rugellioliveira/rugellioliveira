@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/dbt.svg" width="40" style="filter: invert(54%) sepia(77%) saturate(749%) hue-rotate(338deg) brightness(101%) contrast(101%);"/>
+  <img src="https://cdn.simpleicons.org/dbtlabs/FF694B" width="40"/>
 </p>
 
 - DevOps
