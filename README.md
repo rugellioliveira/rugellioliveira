@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="40"/>  
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="40"/>
 </p>
 
 - DevOps
