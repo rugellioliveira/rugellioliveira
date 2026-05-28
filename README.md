@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na área de Dados.
-- 🌱 Atualmente estou estudando conceitos e ferramentas voltados à Engenharia de Dados.
+- 🌱 Atualmente estou expandindo meus conhecimentos em Engenharia de Dados.
 - 👉 Projetos interativos: https://share.streamlit.io/user/rugellioliveira
 - 🎥 Projetos em vídeo: https://www.youtube.com/@RugelliOliveira/playlists
 
