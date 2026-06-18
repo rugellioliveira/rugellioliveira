@@ -68,7 +68,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
-    <img src="https://cdn.credly.com/assets/utilities/embed/badge.png" width="120"/>
+    <img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/image.png" width="120"/>
   </a>
 </p>
 
