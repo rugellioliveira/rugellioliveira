@@ -64,6 +64,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/>
 </p>
 
+- Certificados e Conquistas
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f6db4d1-d3a5-481a-8419-b99f52722360" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ##
 📫 Contato:
 
