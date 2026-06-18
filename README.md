@@ -65,7 +65,7 @@
 </p>
 
 - Certificados e Conquistas
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f6db4d1-d3a5-481a-8419-b99f52722360" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AI Skills Fest](URL_DA_IMAGEM_DO_BADGE)](https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url)
 
 ##
 📫 Contato:
