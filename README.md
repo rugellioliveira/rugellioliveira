@@ -66,11 +66,11 @@
 
 - Certificados e Conquistas
 
-<p align="left">
-  <a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
-    <img src="https://cdn.credly.com/assets/utilities/embed/badge.png" width="120"/>
-  </a>
-</p>
+<a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
+
+🔗 https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url
 
 ##
 📫 Contato:
