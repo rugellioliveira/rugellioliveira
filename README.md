@@ -65,12 +65,11 @@
 </p>
 
 - Certificados e Conquistas
-
-<a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
-</a>
-
-🔗 https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url
+<p align="left">
+  <a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
+    <img src="https://drive.google.com/uc?export=view&id=11l-3_mPDJfAWozW05qWsnnJBWQwOuUn3" width="120"/>
+  </a>
+</p
 
 ##
 📫 Contato:
