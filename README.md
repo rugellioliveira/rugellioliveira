@@ -99,11 +99,11 @@
   <a href="https://github.com/rugellioliveira">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-stats-extended.vercel.app/api?username=rugellioliveira&show_icons=true&theme=dracula"
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=rugellioliveira&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
 </p>
