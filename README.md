@@ -66,6 +66,11 @@
 
 - Certificados e Conquistas
 <p align="left">
+  
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/RugelliOliveira-2223/2B023C6E9FA59C38?sharingId=396A8ADAA1322B53">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="80"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/1f6db4d1-d3a5-481a-8419-b99f52722360/public_url">
     <img src="https://drive.google.com/uc?export=view&id=11l-3_mPDJfAWozW05qWsnnJBWQwOuUn3" width="80"/>
   </a>
